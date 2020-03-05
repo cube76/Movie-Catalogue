@@ -1,0 +1,3 @@
+
+squid:UselessImportCheck	"eRemove this unused import 'com.apps.moviecatalogue.data.source.remote.remote.response.MovieResponse'.(¬­È²8ÌÈ†±ø-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Åß×ä8ÁãÄèô-

@@ -1,0 +1,5 @@
+
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±Ž8éÿ¶©ê-
+?squid:S1170"!Make this final field static too.(÷ÀËè8ðÝÁ©ê-
+wsquid:S00116"XRename this field "SELECTED_MENU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÀËè8ðÝÁ©ê-
+nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8Ëéø©ê-

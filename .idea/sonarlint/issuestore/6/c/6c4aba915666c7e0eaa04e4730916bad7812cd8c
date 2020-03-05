@@ -1,0 +1,6 @@
+
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(«ñŽ³ûÿÿÿÿ8ÃÙ¨ê-
+usquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ßóòúÿÿÿÿ8„ÁüÞõ-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜŒ»¥üÿÿÿÿ8à¢€ßõ-
+Dsquid:S1659"&Declare "textDesc" on a separate line.(Õ¢¶¥8­º¡«ê-
+Dsquid:S1659"&Declare "textDate" on a separate line.(Õ¢¶¥8­º¡«ê-

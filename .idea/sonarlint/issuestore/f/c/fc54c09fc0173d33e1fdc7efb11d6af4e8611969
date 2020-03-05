@@ -1,0 +1,7 @@
+
+Jsquid:S1068",Remove this unused "activity" private field.(ÎšÆ§8ÿûôØø-
+vsquid:S3008A"XRename this field "DIFF_CALLBACK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¢®Ü8ãÕ•Éø-
+Jsquid:S1068",Remove this unused "callback" private field.(ŞÖ”¢8Ë·ÓÉø-
+gsquid:UselessImportCheck
+"7Remove this unused import 'android.widget.ImageButton'.(‚ÏÉõÿÿÿÿÿ8™Ç”Éø-
+usquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ßóòúÿÿÿÿ8¥å«îø-

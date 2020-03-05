@@ -1,0 +1,4 @@
+
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ş¢ÉÉ8ÚèÄ×õ-
+squid:S1319
+"rThe type of the "results" object should be an interface such as "List" rather than the implementation "ArrayList".(È·¬8ÚèÄ×õ-

@@ -1,0 +1,7 @@
+
+csquid:HiddenFieldCheckG":Rename "movies" which hides the field declared at line 30.(Í”õó8şì²çõ-
+Hsquid:S1068"*Remove this unused "movies" private field.(‡Ù€‡8Ïª›±ø-
+“squid:UselessImportCheck"cRemove this unused import 'com.apps.moviecatalogue.data.source.remote.remote.StatusResponse.ERROR'.(À–ãÿÿÿÿÿ8Ïª›±ø-
+vsquid:S1450"XRemove the "viewModel" field and declare it as a local variable in the relevant methods.(ÜÁœû8µğÙ½õ-
+ysquid:S1450!"[Remove the "movieAdapter" field and declare it as a local variable in the relevant methods.(õ«®æ8Éß¬ªê-
+isquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ßİ¨ó8Ç±»õ-

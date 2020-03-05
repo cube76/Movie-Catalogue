@@ -1,0 +1,9 @@
+
+bsquid:S1155„">Use isEmpty() to check whether the collection is empty or not.(×¤ñ¥ûÿÿÿÿ8£õ®ø-
+]squid:S1155©">Use isEmpty() to check whether the collection is empty or not.(œ­ÌÝ8åÌ¨Çø-
+\squid:S1155_">Use isEmpty() to check whether the collection is empty or not.(œ­ÌÝ8åÌ¨Çø-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÀÎùª8äæ•×ô-
+asquid:S1155:">Use isEmpty() to check whether the collection is empty or not.(×¤ñ¥ûÿÿÿÿ8ó¾Ã¡ø-
+ squid:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õá€‰8ñ‚ðÇø-
+Lsquid:S3077".Remove the "volatile" keyword from this field.(ÀÎùª8äæ•×ô-
+qsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÎùª8äæ•×ô-

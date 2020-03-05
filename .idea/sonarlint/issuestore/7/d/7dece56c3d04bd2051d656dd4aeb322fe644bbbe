@@ -1,0 +1,5 @@
+
+vsquid:S1450"XRemove the "viewModel" field and declare it as a local variable in the relevant methods.(Êâí¤8ÿÙõÖõ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è¯œÌ
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¬Ë¨°ø-
+~squid:S1450"[Remove the "movieAdapter" field and declare it as a local variable in the relevant methods.(³Äî½úÿÿÿÿ8¥»­ªê-

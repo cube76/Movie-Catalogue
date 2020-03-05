@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_home">Movie</string>
+    <string name="title_dashboard">TV Show</string>
+    <string name="title_notifications">Favourite</string>
+    <string name="menu_bookmark">menu_bookmark</string>
+</resources>
